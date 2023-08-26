@@ -1,5 +1,9 @@
 # ☕ Coffee License
 
+[coffee-license.org](https://coffee-license.org)
+
+## License
+
 ```
 Coffee License 1.0
 
