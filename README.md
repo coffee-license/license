@@ -1,11 +1,7 @@
 # ☕ Coffee License
 
-```
-Coffee License 1.0
+[coffee-license.org](https://coffee-license.org/)
 
-Use this software in any way you like.
-If we meet, buy us a coffee.
+## Versions
 
-We disclaim all warranties with regard to this software.
-In no event are we liable for any damages whatsoever.
-```
+- [1.0](1.0/LICENSE)
